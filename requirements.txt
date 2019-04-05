@@ -1,0 +1,10 @@
+python-docx
+json
+pdfminer.six
+bijoy2unicode
+Flask
+PyPDF2
+textract
+pandas
+cltk
+scikit-learn
